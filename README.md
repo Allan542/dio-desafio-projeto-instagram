@@ -36,5 +36,8 @@ Este projeto está disponível no bootcamp **Impulso Javascript Evolution** na p
 
   ![Tela resolução celular](./img/prints/celular.png)
 
-É isso! 😃
+- Imagem do favicon inserido:
 
+  ![Favicon](./img/prints/favicon.png)
+
+É isso! 😃
