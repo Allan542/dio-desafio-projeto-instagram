@@ -18,14 +18,20 @@ Esse projeto está disponível no bootcamp **Impulso Javascript Evolution** na p
 
 ## Imagens do Projeto 🖼️
 
-- Imagem da tela de um monitor em alta resolução: ![Tela resolução principal](./img/prints/main.png)
+- Imagem da tela de um monitor em alta resolução: 
 
-- Imagem da tela menor, seja por resolução ou tamanho do navegador: ![Tela resolução menor](./img/prints/main-2.png)
+  ![Tela resolução principal](./img/prints/main.png)
 
-- Imagem da tela com a resolução de um tablet: ![Tela resolução tablet](./img/prints/tablet.png)
+- Imagem da tela menor, seja por resolução ou tamanho do navegador:
+ 
+  ![Tela resolução menor](./img/prints/main-2.png)
+
+- Imagem da tela com a resolução de um tablet:
+
+  ![Tela resolução tablet](./img/prints/tablet.png)
 
 - Imagem da tela com a resolução de um celular: 
 
-![Tela resolução celular](./img/prints/celular.png)
+  ![Tela resolução celular](./img/prints/celular.png)
 
 É isso! 😃
