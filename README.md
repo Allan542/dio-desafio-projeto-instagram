@@ -1,6 +1,6 @@
 # 🚀 Desafio Flexbox Recriando Instagram 🚀
 
-Esse projeto está disponível no bootcamp **Impulso Javascript Evolution** na plataforma da **DIO** e é uma implementação do desafio utilizando Flexbox para recriar a página inicial do Instagram e aplicar as minhas próprias adições e melhorias baseado num modelo feito durante o curso.
+Este projeto está disponível no bootcamp **Impulso Javascript Evolution** na plataforma da **DIO** e é uma implementação do desafio utilizando Flexbox para recriar a página inicial do Instagram e aplicar as minhas próprias adições e melhorias baseado num modelo feito durante o curso.
 
 ## Lista de Adições e Melhorias ⬆️
 
