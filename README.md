@@ -24,6 +24,8 @@ Esse projeto está disponível no bootcamp **Impulso Javascript Evolution** na p
 
 - Imagem da tela com a resolução de um tablet: ![Tela resolução tablet](./img/prints/tablet.png)
 
-- Imagem da tela com a resolução de um celular: ![Tela resolução celular](./img/prints/celular.png)
+- Imagem da tela com a resolução de um celular: 
+
+![Tela resolução celular](./img/prints/celular.png)
 
 É isso! 😃
