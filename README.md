@@ -4,17 +4,19 @@ Este projeto está disponível no bootcamp **Impulso Javascript Evolution** na p
 
 ## Lista de Adições e Melhorias ⬆️
 
- - [X] Eu aumentei a borda do login/cadastre-se e mudei a cor para se ajustar com a imagem;
+ - [X] Aumentada a borda do login/cadastre-se e mudei a cor para se ajustar com a imagem;
 
- - [X] Adicionei mais um celular para ficar bem parecido com a página real do Instagram;
+ - [X] Adicionado mais um celular para ficar bem parecido com a página real do Instagram;
 
- - [X] Adicionei o footer com links, o select de linguagem estilizado para ficar parecido com o original (incluindo a seta dropdown 🔽) e o Copyright;
+ - [X] Adicionado o footer com links, o select de linguagem estilizado para ficar parecido com o original (incluindo a seta dropdown 🔽) e o Copyright;
 
-  - [X] Ajustei o footer para ficar responsivo em resoluções menores;
+  - [X] Ajustado o footer para ficar responsivo em resoluções menores;
 
- - [X] Mudei o tema da página para um jogo que eu gosto muito que é o The Last of Us;
+ - [X] Mudado o tema da página para um jogo que eu gosto muito que é o The Last of Us;
 
- - [X] Ajustei a responsividade desse segundo celular para monitores com resoluções menores e retirei ele na resolução de um tablet (no mobile não precisei mexer, pois ele não aparece).
+ - [X] Ajustada a responsividade desse segundo celular para monitores com resoluções menores e retirei ele na resolução de um tablet (no mobile não precisei mexer, pois ele não aparece).
+ 
+ - [X] Inserido um favicon do próprio ícone do Instagram, pois este não tinha sido adicionado durante o desenvolvimento inicial no curso. 
 
 ## Imagens do Projeto 🖼️
 
