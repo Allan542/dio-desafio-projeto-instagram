@@ -231,6 +231,7 @@ body{
 @media (max-width: 650px) {
     body {
         background-image: url(img/background-mobile.jpg);
+        background-position-y: bottom;
     }
     
     .instagram-wrapper{
